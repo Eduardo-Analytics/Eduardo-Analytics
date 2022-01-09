@@ -26,7 +26,8 @@
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Analytics&show_icons=true&theme=onedark)
 
 
+![Snake animation](https://github.com/Eduardo-Analytics/Eduardo-Analytics/blob/output/github-contribution-grid-snake.svg)
 
- 
+
 
   
