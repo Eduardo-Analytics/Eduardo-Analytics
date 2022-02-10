@@ -2,7 +2,7 @@
 
 - Estudante Análise de Dados - Data Science Academy
 - Pós Graduação em Sistemas de Informação - UniBF
-- Técnologo em Logística - Uninter
+
 
 #
 
